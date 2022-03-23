@@ -5,6 +5,10 @@
     "version": "0.0.1",
     "publisher": "extact.com",
     "icon": "icon.jpg",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/extactspeed/gfe"
+    },
     "keywords": [
         "theme",
         "light theme",
