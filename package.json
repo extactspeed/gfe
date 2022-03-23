@@ -1,0 +1,33 @@
+{
+    "name": "gfe---good-for-eyes",
+    "displayName": "GFE - Good for eyes",
+    "description": "vscode theme good for eyes",
+    "version": "0.0.1",
+    "publisher": "extact.com",
+    "icon": "icon.jpg",
+    "keywords": [
+        "theme",
+        "light theme",
+        "extact",
+        "extact.com",
+        "good for eyes",
+        "best color for eye",
+        "gfe",
+        "GFE"
+    ],
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "GFE - Good for eyes theme",
+                "uiTheme": "vs",
+                "path": "./themes/GFE - Good for eyes theme-color-theme.json"
+            }
+        ]
+    }
+}
